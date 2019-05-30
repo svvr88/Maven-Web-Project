@@ -101,8 +101,8 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>jaguar_cars_snap</name>
-	      <url></url>
-	    </repository>http://13.126.211.22:8081/repository/jaguar_cars_snap/
+	      <url>http://13.126.211.22:8081/repository/jaguar_cars_snap/</url>
+	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Jaguar_cars_release</name>
